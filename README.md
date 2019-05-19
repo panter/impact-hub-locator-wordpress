@@ -13,6 +13,7 @@ To specify the default hub:
 ```
 [IHLL hub="zürich-kraftwerk"]
 ```
+Find your location ID: https://docs.google.com/spreadsheets/d/1tLRn6KkaBUYH20PlBSNBo6RkvMnSTjlOUYg3yq8-jIo/edit#gid=0
 
 If you want to open all links in a new tab, use this:
 
