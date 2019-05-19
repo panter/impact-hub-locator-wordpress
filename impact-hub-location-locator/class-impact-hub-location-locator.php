@@ -52,8 +52,10 @@ if(!class_exists('ImpactHubLocationLocator')) {
                 'openinnewtab' => "false",
                 'color' => null 
             ), $atts );
+
+            $brandColor = urlencode($attributes["color"]);
        
-            $iframeUrl = "https://api.hub.panter.cloud/iframes/hubs?openInNewTab={$attributes["openinnewtab"]}&hub={$attributes["hub"]}&brandColor={$attributes["color"]}";
+            $iframeUrl = "https://api.hub.panter.cloud/iframes/hubs?openInNewTab={$attributes["openinnewtab"]}&hub={$attributes["hub"]}&brandColor=$brandColor";
             include('inc/iframe.php');
             $content = ob_get_contents();
             ob_end_clean();
