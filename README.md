@@ -1,4 +1,8 @@
-# impact-hub-locator-wordpress
+# Impact Hub Hub Locator Plugin
+
+## Live Demo of inline Frame
+
+[Live Demo](https://api.hub.panter.cloud/iframes/hubs)
 
 ## Usage
 
@@ -35,4 +39,27 @@ or all in one:
 
 ## install
 
-TODO
+### Requirements
+* A wordpress installation with a propper IH-Global wordpress template
+
+### Getting Started
+* Download latest version
+
+#### Step 1
+![Upload-WP-Plugin](docs/screenshots/upload-plugin.png)
+
+#### Step 2
+![Edit-Frontpage](docs/screenshots/edit-frontpage.png)
+
+#### Step 3
+![add-raw-section](docs/screenshots/add-raw-section.png)
+
+#### Step 3
+![add-shortcode](docs/screenshots/add-shortcode.png)
+
+
+
+
+
+
+
