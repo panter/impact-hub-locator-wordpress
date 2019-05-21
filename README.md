@@ -46,15 +46,25 @@ or all in one:
 * Download latest version
 
 #### Step 1
+Upload pluging
 ![Upload-WP-Plugin](docs/screenshots/upload-plugin.png)
 
 #### Step 2
+Go into (edit) the page you want to implement the IH-Locator (eg. the Frontpage)
 ![Edit-Frontpage](docs/screenshots/edit-frontpage.png)
 
 #### Step 3
+Add a new RAW section on top
 ![add-raw-section](docs/screenshots/add-raw-section.png)
 
 #### Step 3
+Write in your short code
+
+Eg. 
+[IHLL hub="zürich-kraftwerk" openInNewTab="false" color="#51C4F1"]
+or just
+[IHLL] to run it in default mode (auto location etc.)
+
 ![add-shortcode](docs/screenshots/add-shortcode.png)
 
 
