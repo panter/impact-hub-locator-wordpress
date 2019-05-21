@@ -2,6 +2,8 @@
 
 ## Live Demo of inline Frame
 
+[Live Demo of a Worpress installation with the IH-locator](https://www.impacthub.ch)
+
 [Live Demo](https://api.hub.panter.cloud/iframes/hubs)
 
 ## Usage
