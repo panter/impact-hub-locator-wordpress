@@ -45,7 +45,7 @@ or all in one:
 * A wordpress installation with a propper IH-Global wordpress template
 
 ### Getting Started
-* Download latest version
+* ![Download latest version](impact-hub-location-locator.zip)
 
 #### Step 1
 Upload pluging
